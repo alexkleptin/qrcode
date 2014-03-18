@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<!-- 
+	Sample icons file. This file looks like an SVG file with groups as its
+	children. Each group element has an ID that must match the ID of the button given
+	in the extension. The SVG inside the group makes up the actual icon, and
+	needs use a viewBox instead of width/height for it to scale	properly.
+	
+	Multiple icons can be included, each within their own group.
+-->
+	<g id="qrcode">
+		<svg width="102" height="102" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		 <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+		 <g>
+		  <title>Create QR code</title>
+       <defs
+            id="defs6">
+         <mask
+id="mask14">
+           <image
+ xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAAXNCSVQI5gpbmQAAAJBJREFUGJVdzzEKwkAQBdDnmhzCM3gACwsPYCPofcT7aEgjCAuBLVLYbCFY5QC5hoVZhfw/A6+ZYphl4bLG6ep0xftMg0ZTEAStILQFgoPgUFBZ3uG+n1DyePwYoxijUjrdNJ3uf5ISKUkqPWx3vX7bq/DE81dBLavVuc6bvMkYvjswDKi8RhhXo9Xodpx/7wO+PDZmUFJpIAAAAABJRU5ErkJggg=="
+ width="100"
+ height="100"
+ id="image16" />
+         </mask>
+       </defs>
+       <g
+     transform="matrix(1.25,0,0,-1.25,0,20)"
+     id="g10">
+         <g
+  transform="scale(16,16)"
+  id="g12">
+           <image
+ xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAAXNCSVQI5gpbmQAAAJBJREFUGJVdzzEKwkAQBdDnmhzCM3gACwsPYCPofcT7aEgjCAuBLVLYbCFY5QC5hoVZhfw/A6+ZYphl4bLG6ep0xftMg0ZTEAStILQFgoPgUFBZ3uG+n1DyePwYoxijUjrdNJ3uf5ISKUkqPWx3vX7bq/DE81dBLavVuc6bvMkYvjswDKi8RhhXo9Xodpx/7wO+PDZmUFJpIAAAAABJRU5ErkJggg=="
+    width="5"
+    height="5"
+    transform="matrix(1,0,0,-1,0,1)"
+    mask="url(#mask14)"
+    id="image18" />
+         </g>
+       </g>
+     </g>
+		</svg>
+	</g>
+</svg>
