@@ -1,15 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-<!-- 
-	Sample icons file. This file looks like an SVG file with groups as its
-	children. Each group element has an ID that must match the ID of the button given
-	in the extension. The SVG inside the group makes up the actual icon, and
-	needs use a viewBox instead of width/height for it to scale	properly.
-	
-	Multiple icons can be included, each within their own group.
--->
-	<g id="qrcode">
+	<g id="qr_code">
 		<svg width="102" height="102" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-		 <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
 		 <g>
 		  <title>Create QR code</title>
        <defs

@@ -8,14 +8,15 @@
 //---------------------------------------------------------------------
 svgEditor.addExtension("QR code", function (S) {
 
+    // parameters of new QR code
     var defaultQrcode = {
         text: "qrcode",
         width: 200,
         height: 200,
     };
 
+    // editor mode name for adding QR codes
     var qrcodeMode = "qrcode";
-
 
     // element which is creating between mouseDown and mouseUp events
 	var creatingElement;
@@ -55,7 +56,7 @@ svgEditor.addExtension("QR code", function (S) {
 
         buttons: [{
             // Must match the icon ID in qrcode-icon.xml
-            id: "qrcode",
+            id: "qr_code",
 
             // This indicates that the button will be added to the "mode"
             // button panel on the left side
